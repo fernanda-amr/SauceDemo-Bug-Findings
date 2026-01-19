@@ -72,7 +72,4 @@ Download: **[Click here](Test_Cases_Bug_Report.xlsx)**
 LinkedIn: https://www.linkedin.com/in/fernanda-melo-qa/
 
 
-## Author
 
-**Fernanda Melo — QA Engineer**  
-LinkedIn: https://www.linkedin.com/in/fernanda-melo-qa/
